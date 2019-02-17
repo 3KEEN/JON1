@@ -1,0 +1,6 @@
+owner=289010476413616128
+prefix=JK
+game=JKhelp
+stayinchannel=true
+songinstatus=false
+token=NTQ2NzcyODkzMTkxNzY2MDE2.D0tF1Q.gaC-pWpfRIWhv-03zDAcOWV7jl0
